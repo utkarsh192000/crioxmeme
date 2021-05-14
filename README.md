@@ -25,3 +25,8 @@ FRONTEND:
 -- to make it dynamic Javascripts was used where the logic to acces the database from the api is also written.
 -- There are two section of the page on one side there is form which can used to post the meme whereas on the other side there is meme section
    which is used to publish and see all the memes that are being posted on the page .
+
+
+DEPLOYED:
+* The frontend side of the live site is deployed on the http://rkg.host20.uk/utkarsh/index.html.
+* The API link is delpoyed on the http://utkarsh192.pythonanywhere.com/memes/ 
