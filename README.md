@@ -27,6 +27,16 @@ FRONTEND:
    which is used to publish and see all the memes that are being posted on the page .
 
 
-DEPLOYED:
+
+FEATURES:
+* The user would be able to post the meme from any system.
+* As it is a API based appilcation therefore, it has got the feature of working without even using the actual application. One can easily make use of it and pot the meme.
+* It would publish the latest the 100 memes that are being posted on the site.
+* Since the frontend and backend are deployed on the different platform therefore the, it benefits over the interdependibily of the application over each other. 
+
+
+
+
+DEPLOYMENT:
 * The frontend side of the live site is deployed on the http://rkg.host20.uk/utkarsh/index.html.
 * The API link is delpoyed on the http://utkarsh192.pythonanywhere.com/memes/ 
