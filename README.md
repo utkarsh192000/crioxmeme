@@ -40,3 +40,6 @@ FEATURES:
 DEPLOYMENT:
 * The frontend side of the live site is deployed on the http://rkg.host20.uk/utkarsh/index.html.
 * The API link is delpoyed on the http://utkarsh192.pythonanywhere.com/memes/ 
+
+
+![Screenshot](screenshot.png)
