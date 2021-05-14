@@ -42,4 +42,4 @@ DEPLOYMENT:
 * The API link is delpoyed on the http://utkarsh192.pythonanywhere.com/memes/ 
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
